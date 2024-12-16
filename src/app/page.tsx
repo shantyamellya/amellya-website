@@ -78,7 +78,10 @@ export default function Home() {
         </h2>
         <p className="max-w-lg text-center text-sm dark:text-white md:max-w-2xl md:text-left md:text-base">
 
-          INI GANTI
+           Selamat Datang di portofolio saya.
+Saya seorang vidio editor yang antusias dalam dunia video dan editing foto.
+Dengan passion di bidang visual, saya senang menciptakan karya yang menarik dan bermakna. 
+Jangan ragu untuk menjelajahi lebih banyak tentang saya dan karya saya
 
         </p>
         <div className="flex gap-4">

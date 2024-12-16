@@ -10,10 +10,18 @@ interface IEducation {
 export const education = [
   {
     title: 'Bachelor Degree',
-    company: 'LIKMI',
+    company: 'STMIK LIKMI',
     type: 'Education',
-    description: 'testing',
-    date: 'Febuary - July 2024',
+    description: 'Information Sistem',
+    date: 'September - Desember 2024',
+    url: '',
+  },
+	 {
+    title: 'Vocational High Schools ',
+    company: 'SMK Martadinata',
+    type: 'Education',
+    description: 'Accounting',
+    date: 'Juni 2021 - Mei 2024',
     url: '',
   },
 

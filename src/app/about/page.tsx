@@ -101,8 +101,8 @@ export default function About() {
           />
         </div>
         <p className="mt-5 text-justify text-base md:mt-0 lg:w-1/2 xl:text-lg">
-          INI GANTI TENTANGMU
-        </p>
+Hai! Saya Shanty Amellya, seorang mahasiswa yang penuh semangat untuk mengeksplorasi keindahan Indonesia. Saya percaya bahwa setiap sudut negeri ini memiliki cerita yang unik dan menarik untuk dijelajahi. Melalui perjalanan saya, saya ingin berbagi pengalaman, keindahan, dan inspirasi dari tempat-tempat menakjubkan yang saya temukan. Mari bersama menjelajahi pesona Indonesia!
+	  </p>
       </div>
       <TextSection
         icon="💼"
