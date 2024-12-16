@@ -42,7 +42,7 @@ export function Settings() {
   const toggle = () => setIsPlaying(!isPlaying)
 
   return (
-    <div className="fixed bottom-6 left-6 hidden w-full items-center space-x-5 md:flex">
+    <div className="fixed bottom-6 left-6 w-full items-center space-x-5 md:flex">
       {/* <div>
         
       </div> */}
