@@ -1,13 +1,9 @@
 'use client'
 
 import TextSection from '@/components/common/TextSection'
-import { twMerge } from 'tailwind-merge'
-import { techIcons } from '@/utils/constant/TechIcons'
-import { motion } from 'framer-motion'
 import Image from 'next/image'
 import ExperienceTimeline from '@/components/common/ExperienceTimelime'
 import { experience } from '@/utils/constant/Experience'
-import { LinkPreview } from '@/components/common/LinkPreview'
 
 export default function About() {
   const fadeInAnimationVariants = {
