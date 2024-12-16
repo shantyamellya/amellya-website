@@ -16,9 +16,9 @@ export const logoLinks = [
   },
   {
     name: 'Instagram',
-    href: 'https://www.instagram.com/prodcodelilo',
+    href: 'https://www.instagram.com/prodcodlilo',
     icon: Instagram,
-    content: 'prodcodelilo',
+    content: 'prodcodlilo',
   },
   {
     name: 'Gmail',

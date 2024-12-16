@@ -12,7 +12,7 @@ export const education = [
     title: 'Bachelor Degree',
     company: 'STMIK LIKMI',
     type: 'Education',
-    description: 'Information Sistem',
+    description: 'Information System',
     date: 'September - Desember 2024',
     url: '',
   },
